@@ -19,3 +19,4 @@ int main() {
 //void f1(Stack<char>) { }               // instantiate `Stack<char>`
 
 // See [here](http://stackoverflow.com/q/21598635/5340808).
+//
